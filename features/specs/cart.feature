@@ -3,7 +3,7 @@
 
 @carrinho
 Funcionalidade: Carrinho
-  O usuário pode adicionar produtos ao carrinho
+  Adiciona produtos ao carrinho
 
   Contexto:
     Dado que estou na tela inicial do site
