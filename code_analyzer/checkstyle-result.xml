@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<checkstyle>
+  <file name='Gemfile'/>
+  <file name='Rakefile'/>
+  <file name='features/pages/home.rb'/>
+  <file name='features/pages/product.rb'/>
+  <file name='features/pages/search_list.rb'/>
+  <file name='features/step_definitions/cart_step.rb'/>
+  <file name='features/step_definitions/search_step.rb'/>
+  <file name='features/support/env.rb'/>
+</checkstyle>

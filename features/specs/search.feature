@@ -11,7 +11,7 @@ Funcionalidade: Home
   @realizar_busca_por_termo
   Esquema do Cenário:Realizar pesquisas simples de itens
     Quando faço uma busca por "<produto>"
-    Então verifico que a busca retornou resultados válidos para "<produto>"
+    Entao verifico que a busca retornou resultados válidos para "<produto>"
 
     Exemplos:
       | produto  |

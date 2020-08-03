@@ -13,7 +13,7 @@ Funcionalidade: Carrinho
     Quando faço uma busca por "<produto>"
     E seleciono um produto
     E sou direcionado a página do carrinho
-    Então valido que o "<produto>" foi adicionado corretamente
+    Entao valido que o "<produto>" foi adicionado corretamente
 
     Exemplos:
       | produto  |

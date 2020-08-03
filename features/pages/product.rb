@@ -1,5 +1,4 @@
 class ProductPage < SitePrism::Page
-
   element :btn_buy, '#btn-buy'
 
   def add_cart
